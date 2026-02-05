@@ -31,12 +31,12 @@ Python Libraries:
 - beautifulsoup4
 
 **Installation**
-Step 1 : Clone the repository in git bash with this commmand bellow:
-git clone https://github.com/fahimpyto/sitemapXML_URL_PageSpeedInsight.git
-Step 2 : Open the Folder
-cd sitemapXML_URL_PageSpeedInsight
-Step 3: Install Dependencies
-pip install requests beautifulsoup4
-Step 4: Collect your Google Page Speed Insight API and replace it in main_script.py .
-Open main_script.py and replace: API_KEY = "Google_Page_Speed_API"
+-Step 1 : Clone the repository in git bash with this commmand bellow:
+ -git clone https://github.com/fahimpyto/sitemapXML_URL_PageSpeedInsight.git
+-Step 2 : Open the Folder
+ -cd sitemapXML_URL_PageSpeedInsight
+-Step 3: Install Dependencies
+ -pip install requests beautifulsoup4
+-Step 4: Collect your Google Page Speed Insight API and replace it in main_script.py .
+ -Open main_script.py and replace: API_KEY = "Google_Page_Speed_API"
 
